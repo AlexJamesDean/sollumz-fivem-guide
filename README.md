@@ -234,5 +234,5 @@ North London developer. AI, FiveM, and web stuff. No bullshit.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AlexJamesDean/sollumz-guide&type=Date)](https://star-history.com/#AlexJamesDean/sollumz-guide&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AlexJamesDean/sollumz-2.8.0-fivem-guide&type=Date)](https://star-history.com/#AlexJamesDean/sollumz-2.8.0-fivem-guide&Date)
 
