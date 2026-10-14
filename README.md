@@ -1,4 +1,4 @@
-#Want to skip the tutorial? Get MLO Studio Today - https://gum.co/u/itfzpfoh
+# Want to skip the tutorial? Get MLO Studio Today - https://gum.co/u/itfzpfoh
 
 # How to Create FiveM Assets with Sollumz 2.9.0
 
