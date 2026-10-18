@@ -1,4 +1,24 @@
-# Want to skip the tutorial? Get MLO Studio Today - https://gum.co/u/itfzpfoh
+> I've spent years building GTA V and FiveM assets by hand. This guide is that knowledge, written down.
+
+# Here's what that knowledge gained over years allowed me to build
+
+## [MLO Studio](https://gum.co/u/itfzpfoh)
+
+Draw your rooms like a floor plan, click walls for doors and windows, and export a streamable FiveM MLO in seconds.
+Before it hands the files over, MLO Studio opens them back up and checks for the problems that normally only show up in game: collision you fall through, rooms that vanish when you walk through a door, and rooms the game thinks are outside.
+
+* Rooms, doors, windows, multiple floors and stairwells
+* Portals created and facing the right way automatically
+* Real base-game doors (582 of them), hung on the right hinge
+* Your own textures: drop in an image, get a game-ready material
+* GTA V Enhanced (Gen9) and Legacy (Gen8) export
+* Sollumz XML out, so you can finish your MLO in Blender with the skills in this guide
+
+### [Get MLO Studio on Gumroad →](https://gum.co/u/itfzpfoh)
+
+Want to learn how it all works by hand? The free guide starts below.
+
+---
 
 # How to Create FiveM Assets with Sollumz 2.9.0
 
